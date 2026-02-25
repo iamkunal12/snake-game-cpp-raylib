@@ -61,7 +61,11 @@ Control the snake, eat food to grow, and avoid collisions with walls and yoursel
 - Add Background Music
   
 ---
+## Game dem
 
+![Snake game demo](demo.gif)
+
+---
 ## Conclusion
 
 This project demonstrates:
